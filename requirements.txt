@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+yfinance
+tensorflow
+keras
+streamlit
+scikit-learn

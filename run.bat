@@ -1,0 +1,3 @@
+@echo off
+echo Starting Streamlit app...
+start /B streamlit run "Stock-market.py"
